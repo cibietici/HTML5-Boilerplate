@@ -1,6 +1,7 @@
-body {
+html, body {
   scroll-behavior: smooth;
   background-color: var(--body-background);
+  font-size: 100%;
 }
 
 .skip-block {
